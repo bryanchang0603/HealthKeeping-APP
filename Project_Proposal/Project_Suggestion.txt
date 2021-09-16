@@ -1,0 +1,11 @@
+Temp Name: Health Managing APP
+
+Platform: IOS/Andorid(choose one)
+
+Functions:
+
+  Calculate and manage user's daily Calories intake 
+  
+  Offer food suggestions
+    Based on user's reference
+    business can pay premium to increace the chance the food  
