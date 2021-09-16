@@ -6,6 +6,31 @@ Functions:
 
   Calculate and manage user's daily Calories intake 
   
-  Offer food suggestions
+  Food Suggestions
     Based on user's reference
-    business can pay premium to increace the chance the food  
+    business can pay premium to increace the chance the food displayed during searching
+
+  AI Doctor
+    Similiar to a chat bot
+    provide basic diagnosis based on sydrome
+    provide simple guidance and non prescriptive medicine based on diagnosis
+
+  Social Feature
+    Chat
+    Friend
+    Posts
+
+  Food Recongition
+    recongize the food in the image
+    list the nutrient of the recongized food
+    also give suggested cookbook for for the food
+  
+  Online store system
+    selling coach lesson
+    selling promoted foods
+  
+  built-in search engine
+    for searching excerise videos (Youtube videos)
+    
+
+
