@@ -2,9 +2,9 @@ Project Name: HealthKeeping APP
 
 Group Members:
 Baosheng Chang (Software Engineering & Management)
-Chenghao Gong (Software Engineering)
 Xinyu Huang (Software Engineering)
 Lizhiyuan Lin (Software Engineering)
+Jiaxin Tang (Software Engineering)
 Di Wu (Software Engineering)
 Jiawei Yu (Software Engineering)
 
