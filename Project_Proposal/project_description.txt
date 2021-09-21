@@ -1,11 +1,12 @@
 Project Name: HealthKeeping APP
-
+       
 Group Members:
-Baosheng Chang (Software Engineering & Management)
-Xinyu Huang (Software Engineering)
-Lizhiyuan Lin (Software Engineering)
-Jiaxin Tang (Software Engineering)
-Di Wu (Software Engineering)
-Jiawei Yu (Software Engineering)
-
-People are becoming more concerned about their health as their living standard increase. There are some health keeping apps currently in the market, but the functions are separated. For receiving a complete health advice. What our group want to do is to develop a integrated healthing keeping app that can help the user obtain all the required health information in the least time and provide a online community that allow the people to discuss and share their life during this covid period.
+       Baosheng Chang (Software Engineering & Management)
+       Xinyu Huang (Software Engineering)
+       Lizhiyuan Lin (Software Engineering)
+       Jiaxin Tang (Software Engineering)
+       Di Wu (Software Engineering)
+       Jiawei Yu (Software Engineering)
+       
+Description
+       People are becoming more concerned about their health as their living standard increase. There are some health keeping apps currently in the market, but the functions are separated. For receiving a complete health advice. What our group want to do is to develop an integrated health keeping APP that can help the user obtain all the required health information in the least time and provide a online community that allow the people to discuss and share their life during this COVID period.
